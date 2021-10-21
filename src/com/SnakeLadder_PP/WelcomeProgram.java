@@ -1,0 +1,10 @@
+package com.SnakeLadder_PP;
+
+public class WelcomeProgram {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to Snake and Ladder Problem");
+
+	}
+
+}
